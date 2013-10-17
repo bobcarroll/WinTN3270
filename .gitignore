@@ -1,0 +1,8 @@
+.DS_Store
+.*.swp
+Debug/
+Release/
+*.user
+*.suo
+*.filters
+WinTN3270.sdf
